@@ -1,27 +1,25 @@
-[ 
-
-    { 
-
-        "author" : "Fleaky", 
-
-        "name" : "BoobsWorld", 
-
-        "keyWords" : "dofusBooba,dofusBoobs", 
-
-        "version" : "1.0.0", 
-
-        "dofusVersion" : "2.64", 
-
-        "description" : "Clap them cheeks", 
-
-        "url" : "https://github.com/Fleaky12/BoobsWorld/raw/main/BoobsWorld.zip", 
-
-        "previewUrl" : "https://66.media.tumblr.com/avatar_38f7669ac7cd_128.pnj", 
-
-        "creationDate" : "01/01/2022", 
-
-        "modificationDate" : "01/01/2022" 
-
-    } 
-
+[{
+        "author": "Aspette",
+        "name": "darkOpacity",
+        "keyWords": "darkOpacity, Thèmes",
+        "version": "2.64.0",
+        "dofusVersion": "2.64",
+        "description": "darkOpacity : La transparence à portée de main. (Twitter : @Aspette)",
+        "url": "https://github.com/Fleaky12/BoobsWorld/raw/main/BoobsWorld.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "21/06/2022"
+    },
+    {
+        "author": "Aspette",
+        "name": "darkOpacity Hundred",
+        "keyWords": "darkOpacity, Thèmes",
+        "version": "2.64.0",
+        "dofusVersion": "2.64",
+        "description": "darkOpacity Hundred : darkOpacity, sans transparence. (Twitter : @Aspette)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "21/06/2022"
+    }
 ]
